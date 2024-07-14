@@ -27,7 +27,7 @@ def parse_args():
     parser.add_argument('--config_b', type=str, 
     default='configs/inference/stage_b_1b.yaml' ,help='config file for stage b, latent decoding')
     parser.add_argument( '--prompt', type=str,
-     default='A photo of cat [roubaobao] in space suit, high quality, detail rich, 8k', help='text prompt')
+     default='A photo of cat [roubaobao] with sunglasses, Time Square in the background, high quality, detail rich, 8k', help='text prompt')
     parser.add_argument( '--num_image', type=int, default=4, help='how many images generated')
     parser.add_argument( '--output_dir', type=str, default='figures/personalized/', help='output directory for generated image')
     parser.add_argument( '--stage_a_tiled', action='store_true', help='whther or nor to use tiled decoding for stage a to save memory')
