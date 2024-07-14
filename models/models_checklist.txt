@@ -1,0 +1,7 @@
+https://huggingface.co/stabilityai/StableWurst/resolve/main/stage_a.safetensors
+https://huggingface.co/stabilityai/StableWurst/resolve/main/previewer.safetensors
+https://huggingface.co/stabilityai/StableWurst/resolve/main/effnet_encoder.safetensors
+https://huggingface.co/stabilityai/StableWurst/resolve/main/stage_b_lite_bf16.safetensors 
+https://huggingface.co/stabilityai/StableWurst/resolve/main/stage_c_bf16.safetensors 
+https://huggingface.co/roubaofeipi/UltraPixel/blob/main/ultrapixel_t2i.safetensors
+https://huggingface.co/roubaofeipi/UltraPixel/blob/main/lora_cat.safetensors (only required for personalization)
