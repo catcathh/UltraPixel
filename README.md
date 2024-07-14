@@ -8,7 +8,7 @@ This is the implementation for **UltraPixel: Advancing Ultra-High-Resolution Ima
 ```
 pip install -r requirements.txt
 ```
-**2.** Download pre-trained models from [StableCascade model downloading instructions](https://github.com/Stability-AI/StableCascade/tree/master/models). Small-big models (the small model for stage b and the big model for stage with bfloat16 format are used. The big-big setting is also supported, while small-big favors more efficiency.)
+**2.** Download pre-trained models from [StableCascade model downloading instructions](https://github.com/Stability-AI/StableCascade/tree/master/models). Small-big models (the small model for stage b and the big model for stage with bfloat16 format are used.) The big-big setting is also supported, while small-big favors more efficiency.
 
 **3.**  Download newly added parameters of UltraPixel from [here](https://huggingface.co/roubaofeipi/UltraPixel).
 
