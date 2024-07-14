@@ -21,8 +21,8 @@ import math
 #inrfft_3b_strc_WurstCore
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument( '--height', type=int, default=2880, help='image height')
-    parser.add_argument('--width', type=int, default=5760, help='image width')
+    parser.add_argument( '--height', type=int, default=2560, help='image height')
+    parser.add_argument('--width', type=int, default=5120, help='image width')
     parser.add_argument('--seed', type=int, default=123, help='random seed')
     parser.add_argument('--dtype', type=str, default='bf16', help=' if bf16 does not work, change it to float32 ')
     parser.add_argument('--config_c', type=str, 
