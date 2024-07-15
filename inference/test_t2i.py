@@ -34,7 +34,7 @@ def parse_args():
     parser.add_argument( '--num_image', type=int, default=10, help='how many images generated')
     parser.add_argument( '--output_dir', type=str, default='figures/output_results/', help='output directory for generated image')
     parser.add_argument( '--stage_a_tiled', action='store_true', help='whther or nor to use tiled decoding for stage a to save memory')
-    parser.add_argument( '--pretrained_path', type=str,  help='pretrained path of newly added paramter of UltraPixel')
+    parser.add_argument( '--pretrained_path', type=str, default='models/ultrapixel_t2i.safetensors', help='pretrained path of newly added paramter of UltraPixel')
     args = parser.parse_args()
     return args
 
