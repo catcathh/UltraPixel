@@ -73,7 +73,7 @@ Put all your images into a folder. Here's an expample training dataset [here](./
 Start training by running:
 ```
 CUDA_VISIBLE_DEVICES=0,1 python train/train_personalized.py \
-configs/training lora_personalization.yaml
+configs/training/lora_personalization.yaml
 ```
 
 ## Citation
