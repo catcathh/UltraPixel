@@ -85,5 +85,8 @@ configs/training/lora_personalization.yaml
   year={2024}
 }
 ```
+## Contact Information
+To reach out to the paper’s authors, please refer to the contact information provided on the [project page](https://jingjingrenabc.github.io/ultrapixel/).
+
 ## Acknowledgements
 This project is build upon [StableCascade](https://github.com/Stability-AI/StableCascade) and [Trans-inr](https://github.com/yinboc/trans-inr). Thanks for their code sharing ：）
