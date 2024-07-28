@@ -3,6 +3,8 @@
 This is the implementation for **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**\
 [Full Paper](https://drive.google.com/file/d/1X18HH9kj7ltAnZorrkD84RJEdsJu4gDF/view?usp=sharing), [arXiv](https://arxiv.org/abs/2407.02158), [Project Page](https://jingjingrenabc.github.io/ultrapixel/).
 
+![teaser](figures/teaser.jpg)
+
 ## Getting Started
 **1.** Install dependency by running:
 ```
