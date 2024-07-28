@@ -1,7 +1,8 @@
 # UltraPixel
 
-This is the implementation for **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**\
-[Full Paper](https://drive.google.com/file/d/1X18HH9kj7ltAnZorrkD84RJEdsJu4gDF/view?usp=sharing), [arXiv](https://arxiv.org/abs/2407.02158), [Project Page](https://jingjingrenabc.github.io/ultrapixel/).
+This is the implementation for **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**.
+
+UltraPixel is designed to create exceptionally high-quality, detail-rich images at various resolutions, pushing the boundaries of ultra-high-resolution image synthesis. For more details and to see more stunning images, please visit the [Project Page](https://jingjingrenabc.github.io/ultrapixel/). The [arXiv version](https://arxiv.org/abs/2407.02158) of the paper contains compressed images, while the [full paper](https://drive.google.com/file/d/1X18HH9kj7ltAnZorrkD84RJEdsJu4gDF/view?usp=sharing) features uncompressed, high-quality images.
 
 ![teaser](figures/teaser.jpg)
 
