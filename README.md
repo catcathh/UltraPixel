@@ -23,7 +23,11 @@ pip install -r requirements.txt
 
 ## Inference
 ### Text-guided Image Generation
-Generate an image by running:
+We provide Gradio interface for inference. Run by :
+```
+CUDA_VISIBLE_DEVICES=0 python app.py
+```
+Or generate an image by running:
 ```
 CUDA_VISIBLE_DEVICES=0 python inference/test_t2i.py
 ```
