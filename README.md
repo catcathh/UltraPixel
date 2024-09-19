@@ -4,6 +4,10 @@ This is the implementation for **UltraPixel: Advancing Ultra-High-Resolution Ima
 
 UltraPixel is designed to create exceptionally high-quality, detail-rich images at various resolutions, pushing the boundaries of ultra-high-resolution image synthesis. For more details and to see more stunning images, please visit the [Project Page](https://jingjingrenabc.github.io/ultrapixel/). The [arXiv version](https://arxiv.org/abs/2407.02158) of the paper contains compressed images, while the [full paper](https://drive.google.com/file/d/1X18HH9kj7ltAnZorrkD84RJEdsJu4gDF/view?usp=sharing) features uncompressed, high-quality images.
 
+## 🔥 **Updates:**
+- **`2024/09/19`**: 🤗 We released the [HuggingFace Space](https://huggingface.co/spaces/roubaofeipi/UltraPixel-demo), thanks to the HF team and [Gradio](https://github.com/gradio-app/gradio)! Gradio interface for text-to-image inference is also provided, and please see Inference section! 
+- **`2024/09/19`**: We have updated the versions of PyTorch and Torchvision in our environment. On an RTX 4090 GPU, generating a 2560×5120 image (without stage_a_tiled) now takes approximately 60 seconds, compared to about three minutes in the previous setup.
+
 ![teaser](figures/teaser.jpg)
 
 ## Getting Started
