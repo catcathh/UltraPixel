@@ -1,6 +1,9 @@
-# UltraPixel
+# UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks
 
-This is the implementation for **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**.
+[![arXiv](https://img.shields.io/badge/arXiv-paper-red)](https://arxiv.org/abs/2407.02158)
+[![Full Paper](https://img.shields.io/badge/Full_Paper-PDF-blue)](https://drive.google.com/file/d/1X18HH9kj7ltAnZorrkD84RJEdsJu4gDF/view?usp=sharing)
+[![Project Homepage](https://img.shields.io/badge/Project-Homepage-brightgreen)](https://jingjingrenabc.github.io/ultrapixel/)
+[![Hugging Face Demo](https://img.shields.io/badge/Hugging_Face-Demo-yellow)](https://huggingface.co/spaces/roubaofeipi/UltraPixel-demo)
 
 UltraPixel is designed to create exceptionally high-quality, detail-rich images at various resolutions, pushing the boundaries of ultra-high-resolution image synthesis. For more details and to see more stunning images, please visit the [Project Page](https://jingjingrenabc.github.io/ultrapixel/). The [arXiv version](https://arxiv.org/abs/2407.02158) of the paper contains compressed images, while the [full paper](https://drive.google.com/file/d/1X18HH9kj7ltAnZorrkD84RJEdsJu4gDF/view?usp=sharing) features uncompressed, high-quality images.
 
