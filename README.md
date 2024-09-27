@@ -1,4 +1,4 @@
-# UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks
+# UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks (NeurIPS 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-paper-red)](https://arxiv.org/abs/2407.02158)
 [![Full Paper](https://img.shields.io/badge/Full_Paper-PDF-blue)](https://drive.google.com/file/d/1X18HH9kj7ltAnZorrkD84RJEdsJu4gDF/view?usp=sharing)
